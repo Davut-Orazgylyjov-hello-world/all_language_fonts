@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 3453865b5d9948441b40ff34a31840d5
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - LMG-Arun
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1444fb23f97edc949a2e2c734ceb4ab7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,15 @@
+{
+  "name": "com.orazgylyjovfuteres.all_language_fonts",
+  "version": "1.0.1",
+  "displayName": "Orazgylyjov JsonLocalization",
+  "description": "Localization system with json files",
+  "unity": "2019.1",
+  "git-dependencies": [
+  ],
+  "keywords": [
+    "All fonts"
+  ],
+  "author": {
+    "name": "Orazgylyjov Davut"
+  }
+}

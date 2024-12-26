@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ff29c546fbc08ee408e2c8437a0f0ede
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - LMG-Laxmi
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4b503913c54a3a840a8d0f2c92c3126b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
